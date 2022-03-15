@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "411560572961",
+    "project_id": "cryptotraq-80c5e",
+    "storage_bucket": "cryptotraq-80c5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411560572961:android:28dcd70ebb651f5fc00b60",
+        "android_client_info": {
+          "package_name": "com.example.cryptotraq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411560572961-47m87nnt29pi4p9ba8krp1efep7anpgq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cryptotraq",
+            "certificate_hash": "cb4dd16fceb69e60a196f0562e722043c9536959"
+          }
+        },
+        {
+          "client_id": "411560572961-cad78i2oqn7bsg386eo5es52mvg5g6gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9g-rgkB8-6WIRMMItU1ewUC2MfEBqBG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411560572961-cad78i2oqn7bsg386eo5es52mvg5g6gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
